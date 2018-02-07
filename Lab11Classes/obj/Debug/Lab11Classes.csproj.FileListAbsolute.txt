@@ -1,0 +1,7 @@
+C:\Users\hanio\source\repos\Lab11Classes\Lab11Classes\bin\Debug\Lab11Classes.exe.config
+C:\Users\hanio\source\repos\Lab11Classes\Lab11Classes\bin\Debug\Lab11Classes.exe
+C:\Users\hanio\source\repos\Lab11Classes\Lab11Classes\bin\Debug\Lab11Classes.pdb
+C:\Users\hanio\source\repos\Lab11Classes\Lab11Classes\obj\Debug\Lab11Classes.csprojResolveAssemblyReference.cache
+C:\Users\hanio\source\repos\Lab11Classes\Lab11Classes\obj\Debug\Lab11Classes.csproj.CoreCompileInputs.cache
+C:\Users\hanio\source\repos\Lab11Classes\Lab11Classes\obj\Debug\Lab11Classes.exe
+C:\Users\hanio\source\repos\Lab11Classes\Lab11Classes\obj\Debug\Lab11Classes.pdb
